@@ -125,6 +125,7 @@
 .u-section-2 .u-text-1 {
   font-size: 3.75rem;
   width: 753px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   margin: 240px auto 0;
 }
 
@@ -556,6 +557,7 @@
 
 .u-section-4 .u-text-2 {
   font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   margin: -313px 119px 0 672px;
 }
 
@@ -1273,6 +1275,7 @@
   letter-spacing: 1px;
   background-image: none;
   font-size: 1.25rem;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 0 125px 0 auto;
   padding: 28px 63px;
 }
